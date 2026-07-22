@@ -7,7 +7,6 @@ Kiran Sehrawat -- 2023ucs0099@iitjammu.ac.in (@klaig19 )
 Kanika -- 2023ucs0095@iitjammu.ac.in (@kanika1206 )
 
 
-
 # AGASTYA
 
 **Automated, tamper-evident traffic-violation enforcement from photographic evidence.**
